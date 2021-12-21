@@ -15,6 +15,7 @@
         <Button Content="Debug Test" HorizontalAlignment="Left" Margin="393,48,0,0" VerticalAlignment="Top" Width="75"/>
         <CheckBox Content="라스트체인지" HorizontalAlignment="Left" Margin="259,48,0,0" VerticalAlignment="Top"/>
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Margin="72,48,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Button Content="cyu" HorizontalAlignment="Left" Margin="703,48,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
