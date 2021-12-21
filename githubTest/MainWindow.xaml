@@ -13,6 +13,7 @@
         <Button Content="BranchTest" HorizontalAlignment="Left" Margin="318,92,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
         <Button Content="MasterBranch" HorizontalAlignment="Left" Margin="531,160,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="Debug Test" HorizontalAlignment="Left" Margin="393,48,0,0" VerticalAlignment="Top" Width="75"/>
+        <CheckBox Content="라스트체인지" HorizontalAlignment="Left" Margin="259,48,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
